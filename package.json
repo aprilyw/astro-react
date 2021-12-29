@@ -12,6 +12,7 @@
     "astro": "^0.22.1"
   },
   "dependencies": {
+    "@react-spring/three": "^9.3.2",
     "@react-three/fiber": "^7.0.24",
     "three": "^0.136.0"
   }
